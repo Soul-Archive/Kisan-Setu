@@ -1,0 +1,6 @@
+{
+  "name": "KisanSetu - AI Agricultural Product Comparison",
+  "description": "Multi-vendor agricultural equipment and fertilizer comparison platform for Indian farmers with deterministic recommendations and local Qwen3.5-4B AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
